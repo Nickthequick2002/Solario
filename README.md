@@ -21,3 +21,6 @@ Platform: Android (APK included in Releases)
 2. Open the project in Unity (Version 2022.3 or higher recommended).
 3. The project will automatically rebuild the Library folder and dependencies.
 4. <i>Note: For a lightweight repository, high-fidelity audio files (>100MB) were removed. You can add your own audio tracks in Assets/Audio.</i>
+
+🎓 About the Project
+Developed as part of the Immersive Computing curriculum at Deree - The American College of Greece. This project demonstrates the integration of complex 3D assets, physical interactions, and educational UI in a mobile AR environment.
