@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Android%20(ARCore)-blue?style=flat-square)
 ---
 ## 📽️ Project Demo
-
+[Watch the Solario Demo Video] https://github.com/Nickthequick2002/Solario/releases/tag/v1.0
 ---
 ## ✨ Key Features
 ### 🌌 Immersive AR Exploration
