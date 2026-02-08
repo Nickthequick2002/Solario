@@ -1,26 +1,31 @@
-🪐 Solario - Interactive AR Solar System Explorer
-Solario is an immersive Augmented Reality (AR) application built with Unity that brings the solar system into your physical environment. Users can explore, manipulate, and learn about every planet in our solar system through a high-fidelity AR interface.
-
-✨ Key Features
-Augmented Reality Immersion: Projects realistic planetary models into the real world using Unity's AR Foundation.
-Dynamic Interaction:
-Rotation: Rotate planets 360 degrees using touch gestures to inspect every detail.
-Scale & Inspect: Interactive elements allow for deep dives into planetary characteristics.
-Educational Knowledge Base: Click on any planet to reveal real-time astronomical data and fun facts.
-Aesthetic UI: A modern, "Space-Tech" inspired user interface optimized for AR visibility.
-
-🛠️ Tech Stack
-Engine: Unity 2022+
-Framework: AR Foundation (ARKit/ARCore), XR Interaction Toolkit
-Language: C#
-Platform: Android (APK included in Releases)
-
-🚀 How to Run
-<b>For Developers</b>
+# 🪐 Solario - Interactive AR Solar System Explorer
+**Solario** is an immersive Augmented Reality (AR) application built with **Unity** that brings the solar system into your physical environment. Users can explore, manipulate, and learn about every planet through a high-fidelity interactive interface.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Unity%20%7C%20C%23%20%7C%20AR%20Foundation-orange?style=flat-square)
+![Platform](https://img.shields.io/badge/Platform-Android%20(ARCore)-blue?style=flat-square)
+---
+## ✨ Key Features
+### 🌌 Immersive AR Exploration
+*   **Real-World Projection**: Projects high-fidelity 3D planetary models into your immediate physical space using AR Foundation.
+*   **Spatial Awareness**: Planets maintain their position in 3D space, allowing users to walk around them for a 360-degree inspection.
+### 🕹️ Interactive Manipulation
+*   **Gesture Controls**: Intuitive touch controls allow users to rotate planets to see different hemispheres.
+*   **Detailed Inspection**: Select specific planets to trigger smooth transition animations and focus views.
+### 📖 Educational Knowledge Base
+*   **Planetary Data**: Integrated UI overlays provide real-time facts, astronomical data, and characteristics for every planet.
+*   **Smart Info-System**: A non-intrusive, "Space-Tech" inspired UI optimized for visibility in mobile AR environments.
+---
+## 🛠️ Tech Stack
+*   **Engine**: Unity 2022.3 (LTS)
+*   **Framework**: AR Foundation (ARKit/ARCore support)
+*   **Interaction**: XR Interaction Toolkit
+*   **Language**: C#
+---
+## 🚀 Installation & Setup
+### For Developers (Unity)
 1. Clone the repository.
-2. Open the project in Unity (Version 2022.3 or higher recommended).
-3. The project will automatically rebuild the Library folder and dependencies.
-4. <i>Note: For a lightweight repository, high-fidelity audio files (>100MB) were removed. You can add your own audio tracks in Assets/Audio.</i>
-
-🎓 About the Project
-Developed as part of the Immersive Computing curriculum at Deree - The American College of Greece. This project demonstrates the integration of complex 3D assets, physical interactions, and educational UI in a mobile AR environment.
+2. Open the project in Unity 2022.3+.
+3. *Note: For a lightweight repository, high-fidelity audio files (>100MB) were removed. Add your preferred MP3s to `Assets/Audio`.*
+---
+## 🎓 Academic Context
+Developed for the **Immersive Computing** curriculum at Deree - The American College of Greece. This project showcases the intersection of 3D modeling, interactive scripting, and mobile AR deployment.
