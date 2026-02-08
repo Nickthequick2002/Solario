@@ -4,6 +4,9 @@
 ![Stack](https://img.shields.io/badge/Stack-Unity%20%7C%20C%23%20%7C%20AR%20Foundation-orange?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Android%20(ARCore)-blue?style=flat-square)
 ---
+## 📽️ Project Demo
+
+---
 ## ✨ Key Features
 ### 🌌 Immersive AR Exploration
 *   **Real-World Projection**: Projects high-fidelity 3D planetary models into your immediate physical space using AR Foundation.
